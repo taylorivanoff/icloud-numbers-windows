@@ -2,7 +2,7 @@
   "name": "icloud-numbers",
   "description": "Use iCloud Numbers in a native Windows application.",
   "author": { "name": "Taylor Ivanoff" },
-  "version": "1.0.11",
+  "version": "1.0.12",
   "repository": "https://github.com/taylorivanoff/icloud-numbers-windows",
   "main": "main.js",
   "scripts": { "start": "electron .", "release": "electron-builder --win --x64 --publish=never" },
