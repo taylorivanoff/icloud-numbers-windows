@@ -1,13 +1,11 @@
-# iCloud Numbers for Windows — Unofficial Desktop App
+# iCloud Numbers for Windows
 
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/icloud-numbers-windows)](https://github.com/taylorivanoff/icloud-numbers-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/icloud-numbers-windows/total)](https://github.com/taylorivanoff/icloud-numbers-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/icloud-numbers-windows)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
-Unofficial **iCloud Numbers for Windows** desktop app. Access iCloud Numbers from [icloud.com](https://www.icloud.com/) in a dedicated Electron client with system tray, auto-updates, and shared Apple ID authentication.
-
-Work with Apple Numbers spreadsheets on Windows through iCloud in a dedicated desktop wrapper with tray and auto-updates.
+iCloud Numbers desktop app for Windows. Access iCloud Numbers from [icloud.com](https://www.icloud.com/).
 
 ## Features
 
@@ -41,7 +39,7 @@ bun run release
 
 ## Keywords
 
-iCloud Numbers for Windows, Apple Numbers Windows app, Numbers on PC, unofficial iCloud Numbers desktop client
+iCloud Numbers for Windows, Apple Numbers Windows app, Numbers on PC, iCloud Numbers desktop client
 
 ## Contributing
 
