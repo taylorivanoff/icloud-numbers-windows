@@ -1,6 +1,6 @@
 [package]
 name = "icloud-numbers"
-version = "2.0.2"
+version = "2.0.3"
 description = "iCloud Numbers for Windows (Tauri)"
 authors = ["Taylor Ivanoff"]
 edition = "2021"
